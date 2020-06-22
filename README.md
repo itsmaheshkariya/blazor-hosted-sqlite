@@ -55,9 +55,10 @@ dotnet tool install --global dotnet-ef
 
 `Demo`
 
-![Screenshot 2020-06-23 at 2 01 32 AM](https://user-images.githubusercontent.com/16520789/85332655-f6deb880-b4f5-11ea-9281-0b9ef1c15e2b.png)
+![Screenshot 2020-06-23 at 2 07 48 AM](https://user-images.githubusercontent.com/16520789/85334069-47571580-b4f8-11ea-9de0-b72bd5ebdb45.png)
 
-`Swagger UI`
-![Screenshot 2020-06-23 at 2 07 48 AM](https://user-images.githubusercontent.com/16520789/85332931-69e82f00-b4f6-11ea-82f2-0f8bbc56da0f.png)
+
+![Screenshot 2020-06-23 at 2 01 32 AM](https://user-images.githubusercontent.com/16520789/85334075-49b96f80-b4f8-11ea-80f2-cdcba6c56eec.png)
+
 
 
